@@ -1,0 +1,163 @@
+[
+  {
+    "id": "7",
+    "media_type": "IMAGE",
+    "caption": "¡Hola Madridistas!",
+    "timestamp": 1812184400,
+    "location": "Estadio Santiago Bernabéu, Madrid",
+    "hashtags": ["realmadrid", "albertusbima", "herewego", "indonesia"],
+    "likes_count": 25891623,
+    "comments_count": 1750476,
+    "media": {
+      "url": "/assets/bernabeu.jpg",
+      "width": 1280,
+      "height": 800,
+      "format": "jpg",
+      "thumbnail_url": "/assets/bernabeu.jpg"
+    },
+    "user": {
+      "id": "1",
+      "username": "bimaalbertus_21",
+      "full_name": "Albertus Bima Putra Ismawan",
+      "profile_picture_url": "/assets/profile.jpg"
+    }
+  },
+  {
+    "id": "6",
+    "media_type": "IMAGE",
+    "caption": "⚪ | Albertus Bima to Real Madrid: <b>HERE WE GO!</b> <br /><br/>Real Madrid are set to sign Albertus Bima on a permanent deal from Brighton, here we go! ⭐🤝 <br /><br /> 📁Full agreement reached for £120m fee plus add ons, total package will be worth £150m for Indonesian midfielder. <br /> <br />⭐Albertus had verbal agreement with Real on a 5 year contract as he only wanted to join Madrid, no other club.",
+    "timestamp": 1810184400,
+    "location": "Estadio Santiago Bernabéu, Madrid",
+    "hashtags": ["realmadrid", "albertusbima", "herewego", "indonesia"],
+    "likes_count": 4891623,
+    "comments_count": 750476,
+    "media": {
+      "url": "/assets/herewego.jpg",
+      "width": 1080,
+      "height": 1080,
+      "format": "jpg",
+      "thumbnail_url": "/assets/herewego.jpg"
+    },
+    "user": {
+      "id": "2",
+      "username": "fabriziorom",
+      "full_name": "Fabrizio Romano<i> with</i> Albertus Bima Putra Ismawan <i> and</i> Real Madrid",
+      "profile_picture_url": "https://pbs.twimg.com/profile_images/1741753635158024192/j0m8Ucvv_400x400.jpg"
+    }
+  },
+  {
+    "id": "5",
+    "media_type": "VIDEO",
+    "caption": "¿Cómo no voy a querer? <a>#halamadrid</a><a>#halamadridynadamas</a>",
+    "timestamp": 1715201526,
+    "location": "Estadio Santiago Bernabéu, Madrid",
+    "hashtags": ["realmadrid", "ucl", "bayern", "madridbayern"],
+    "likes_count": 69,
+    "comments_count": 15,
+    "media": {
+      "url": "/assets/halamadridynadamas.mp4",
+      "width": 720,
+      "height": 1920,
+      "format": "mp4",
+      "thumbnail_url": "/assets/rmamci.png"
+    },
+    "user": {
+      "id": "1",
+      "username": "bimaalbertus_21",
+      "full_name": "Albertus Bima Putra Ismawan",
+      "profile_picture_url": "/assets/profile.jpg"
+    }
+  },
+  {
+    "id": "4",
+    "media_type": "IMAGE",
+    "caption": "OTW berkuasa 32 tahun :v",
+    "timestamp": 1715201526,
+    "location": "",
+    "hashtags": [],
+    "likes_count": 65,
+    "comments_count": 32,
+    "media": {
+      "url": "/assets/bangbima.jpg",
+      "width": 1280,
+      "height": 720,
+      "format": "mp3",
+      "thumbnail_url": "/assets/bangbima.jpg"
+    },
+    "user": {
+      "id": "1",
+      "username": "bimaalbertus_21",
+      "full_name": "Albertus Bima Putra Ismawan",
+      "profile_picture_url": "/assets/profile.jpg"
+    }
+  },
+  {
+    "id": "3",
+    "media_type": "IMAGE",
+    "caption": "Cosplay",
+    "timestamp": 1715201526,
+    "location": "",
+    "hashtags": [],
+    "likes_count": 65,
+    "comments_count": 32,
+    "media": {
+      "url": "/assets/parkermeme.jpg",
+      "width": 1280,
+      "height": 1280,
+      "format": "mp3",
+      "thumbnail_url": "/assets/parkermeme.jpg"
+    },
+    "user": {
+      "id": "1",
+      "username": "bimaalbertus_21",
+      "full_name": "Albertus Bima Putra Ismawan",
+      "profile_picture_url": "/assets/profile.jpg"
+    }
+  },
+  {
+    "id": "2",
+    "media_type": "IMAGE",
+    "caption": "Rosary",
+    "timestamp": 1699778757,
+    "location": "",
+    "hashtags": [],
+    "likes_count": 33,
+    "comments_count": 2,
+    "media": {
+      "url": "/assets/fb-edit.jpg",
+      "width": 1080,
+      "height": 1080,
+      "format": "jpg",
+      "thumbnail_url": "/assets/fb-edit.jpg"
+    },
+    "user": {
+      "id": "1",
+      "username": "bimaalbertus_21",
+      "full_name": "Albertus Bima Putra Ismawan",
+      "profile_picture_url": "/assets/profile.jpg"
+    }
+  },
+  {
+    "id": "1",
+    "media_type": "IMAGE",
+    "caption": "di Tanjung Sakti",
+    "timestamp": 1473842757,
+    "location": "Gereja Katolik Santo Mikael",
+    "hashtags": [],
+    "likes_count": 45,
+    "comments_count": 5,
+    "media": {
+      "url": "/assets/stmikael.png",
+      "width": 954,
+      "height": 953,
+      "format": "png",
+      "thumbnail_url": "/assets/stmikael.png"
+    },
+    "user": {
+      "id": "1",
+      "username": "bimaalbertus_21",
+      "full_name": "Albertus Bima Putra Ismawan",
+      "profile_picture_url": "/assets/profile.jpg"
+    }
+  }
+]

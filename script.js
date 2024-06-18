@@ -24,7 +24,7 @@ function createPostHTML(post) {
     </a>`;
   } else if (post.media_type === "VIDEO") {
     media = `
-      <video data-setup="{}" controls poster="${post.media.thumbnail_url}" id="my-video" class="video-js">
+      <video data-setup="{}" controls id="my-video" class="video-js">
         <source src="${post.media.url}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
